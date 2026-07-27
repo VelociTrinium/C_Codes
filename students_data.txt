@@ -1,0 +1,24 @@
+
+--- Student 1 ---
+Registration Number: 23
+Name: er
+Marks:
+  Subject 1: 56.00
+  Subject 2: 67.00
+  Subject 3: 78.00
+
+--- Student 2 ---
+Registration Number: 34
+Name: gfgrtg
+Marks:
+  Subject 1: 67.00
+  Subject 2: 78.00
+  Subject 3: 90.00
+
+--- Student 3 ---
+Registration Number: 46
+Name: rgf
+Marks:
+  Subject 1: 56.00
+  Subject 2: 67.00
+  Subject 3: 87.00
