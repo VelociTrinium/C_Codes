@@ -15,7 +15,7 @@
 // --- TODO: Move your Process struct and other definitions to a header ---
 // #include "simulator_core.h"
 // --- (Your core logic functions should be in simulator_core.c) ---
-
+// i have no idea if this is good or not.
 
 // This struct holds pointers to the widgets we need to access
 typedef struct {
